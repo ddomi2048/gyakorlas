@@ -1,0 +1,36 @@
+body{
+    background-color: darkcyan;
+    height: 100vh;
+}
+
+.navbar{
+    background-color: darkslategray;
+    position:sticky;
+    left: 0;
+    top: 0;
+    width: 100vh;
+    color: white;
+    text-align: center;
+    height: 50px;
+    letter-spacing: 3px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:larger;
+    text-decoration:underline;
+}
+
+footer{
+    background-color: darkturquoise;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+
+}
+
+a{
+    color: white;
+}
+
